@@ -4,7 +4,8 @@
   "description": "An Amazon-like storefront using MySQL. App takes orders from customers and depletes stock from the store's inventory. ",
   "main": "bamazonCustomer.js",
   "dependencies": {
-    "inquirer": "^5.0.1"
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
   },
   "devDependencies": {},
   "scripts": {
