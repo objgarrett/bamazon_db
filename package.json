@@ -1,0 +1,23 @@
+{
+  "name": "bamazon_db",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront using MySQL. App takes orders from customers and depletes stock from the store's inventory. ",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/objgarrett/bamazon_db.git"
+  },
+  "author": "Olivia Garrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/objgarrett/bamazon_db/issues"
+  },
+  "homepage": "https://github.com/objgarrett/bamazon_db#readme"
+}
